@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## About the project
+## About the project - Integrating ReactJS with the TinyMCE
 
 This is a POC of the **Integrating ReactJS with the TinyMCE** editor. It also has a customized modal which can be equipped with a form which can eventually, be used to insert the data into the HTML editor in a user defined organised way.
 Currently it demonstrates an example in which clicking a button on modal inserts a message (Hi) into the editor. In future, this POC will showcase integration of customized plugins.
